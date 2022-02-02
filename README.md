@@ -1,1 +1,1 @@
-# Calculator_En:  -> This Online Calcultor_En created by @RioBiw for the University Project in 2022.
+# Calculator_En:  -> This Online Calcultor created by @RioBiw using HTML CSS AND JS for the University Project in 2022.
